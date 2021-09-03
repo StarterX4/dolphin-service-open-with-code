@@ -3,6 +3,7 @@ Exec=vscodium %f
 Icon=vscodium
 Name=Open with VSCodium
 Name[ar]=الفتح بواسطة VSCodium
+Name[nl]=Openen met VSCodium
 
 [Desktop Entry]
 Actions=openvscodium
