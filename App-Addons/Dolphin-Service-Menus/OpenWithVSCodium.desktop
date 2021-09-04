@@ -1,5 +1,5 @@
 [Desktop Action openvscodium]
-Exec=vscodium %f
+Exec=vscodium %F
 Icon=vscodium
 Name=Open with VSCodium
 Name[ar]=الفتح بواسطة VSCodium
