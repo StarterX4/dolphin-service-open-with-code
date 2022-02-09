@@ -7,7 +7,7 @@ Name[nl]=Openen met VSCodium
 
 [Desktop Entry]
 Actions=openvscodium
-MimeType=all/all;
+MimeType=text/plain;inode/directory;
 ServiceTypes=KonqPopupMenu/Plugin
 Type=Service
 X-KDE-Priority=TopLevel
