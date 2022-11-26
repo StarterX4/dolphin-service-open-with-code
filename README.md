@@ -1,3 +1,5 @@
+> **Warning** : This repository/project is no longer maintained.
+
 I always upload them to the [KDE Store](https://store.kde.org).
 
 
