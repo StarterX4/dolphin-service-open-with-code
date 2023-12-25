@@ -1,11 +1,2 @@
-> **Warning** : This repository/project is no longer maintained.
-
-I always upload them to the [KDE Store](https://store.kde.org).
-
-
-# Overview
-
-## Dolphin Service Menus
-
-### [Open with VSCodium](https://store.kde.org/p/1588485)
-Adding `Open with VSCodium` to the menu. VSCodium is a VSCode fork which fixes microsoft privacy issues.
+# Edit/Open with Code - OSS
+Adding `Edit/Open with Code - OSS` to the menu (depending on whether it is a file or a folder). "Code - OSS" is a fully Open Source VSCode build (like Chromium is to the Google Chrome?) with less of telemetry.
