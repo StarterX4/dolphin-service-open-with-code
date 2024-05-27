@@ -8,4 +8,4 @@ Adding `Edit/Open with Code - OSS` to the menu (depending on whether it is a fil
 ## Installation
 Either download through Dolphin's Context Menu Settings</br>
 *(Burger menu -> Configure -> Configure Dolphin -> Context Menu -> Download New Services -> `<Search for my listing>`)*</br></br>
-or downloading **.desktop* files manually from the [KDE Store](https://store.kde.org/p/2116391/) or this github repo, and putting them in `~/.local/share/kservices5/ServiceMenus/`.
+or downloading **.desktop* files manually from the [KDE Store](https://store.kde.org/p/2116391/) or this github repo, and putting them in `~/.local/share/kservices5/ServiceMenus/` for Plasma **5**, or `~/.local/share/kio/servicemenus/` for Plasma **6**.
